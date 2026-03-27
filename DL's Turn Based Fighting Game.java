@@ -1,5 +1,5 @@
 import java.util.*;
-public class TurnBasedFightingGame
+public class DLsTurnBasedFightingGame
 {
     public static void main()
     {
